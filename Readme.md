@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to register a custom filter function and use it in ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4099/)**
+<!-- run online end -->
 
 
 <p>Sometimes it is necessary to create a custom function that allows implementing your own logic for filtering data in an auto filter row.</p>
