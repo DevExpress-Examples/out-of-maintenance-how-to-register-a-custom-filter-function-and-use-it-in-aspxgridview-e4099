@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 using DevExpress.Data.Filtering;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page {
     protected void Page_Init(object sender, EventArgs e) {
